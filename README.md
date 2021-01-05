@@ -1,5 +1,5 @@
 
-[]!(Capture.png)
+[]!(https://github.com/nabeeltaariq/messenger-clone/blob/master/Capture.PNG)
 
 # Getting Started with Create React App
 
