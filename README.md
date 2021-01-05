@@ -1,5 +1,5 @@
 
-[]!(https://github.com/nabeeltaariq/messenger-clone/blob/master/Capture.PNG)
+![Here is the Image](Capture.PNG)
 
 # Getting Started with Create React App
 
